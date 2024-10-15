@@ -1,2 +1,4 @@
 this is to track the process in git
-i am stronger that you moshhead you fucking four sward style.
+
+Hey i am making this to creat a conflit to learn git you fuking cocok
+i am stronger that you moshhead.

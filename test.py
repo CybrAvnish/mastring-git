@@ -1,2 +1,2 @@
 print("just kidding")
-inout("this is just for fuckng crash this cours")
+nothing = input("this is just for fuckng crash this cours")
